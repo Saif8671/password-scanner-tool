@@ -39,5 +39,5 @@ pip install -r requirements.txt
 # Install Node dependencies (if developing frontend)
 npm install
 
-
-### Deployment link :
+```
+### Deployment link :https://password-scanner-tool.netlify.app/
