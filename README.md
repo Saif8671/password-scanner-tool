@@ -2,10 +2,6 @@
 
 A comprehensive password analysis toolkit featuring real-time strength checking, breach detection, and advanced security metrics.
 
-![License](https://img.shields.io/github/license/yourusername/password-security-toolkit)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/password-security-toolkit)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/password-security-toolkit)
-
 ## 🌟 Features
 
 ### Core Functionality
